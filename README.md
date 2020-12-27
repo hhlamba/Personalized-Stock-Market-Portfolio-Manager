@@ -8,22 +8,22 @@ We all keep an eye on the Stock Market to make few investments and earn a couple
 </p>
 
 
-<p>
-<center>Instructions to work with this personalized portfolio</center>
-<center><img src="https://github.com/hhlamba/Personalized-Stock-Market-Portfolio-Manager/blob/main/Screenshots/Instructions.png"></center>
+<p align="center">
+Instructions to work with this personalized portfolio
+<img src="https://github.com/hhlamba/Personalized-Stock-Market-Portfolio-Manager/blob/main/Screenshots/Instructions.png">
 </p>
 
-<p>
-<center>What your overall porfolio returns look like?</center>
-<center><img src="https://github.com/hhlamba/Personalized-Stock-Market-Portfolio-Manager/blob/main/Screenshots/Overall%20Portfolio%20Gain:Loss.png"></center>
+<p align="center">
+What your overall porfolio returns look like?
+<img src="https://github.com/hhlamba/Personalized-Stock-Market-Portfolio-Manager/blob/main/Screenshots/Overall%20Portfolio%20Gain:Loss.png">
 </p>
 
-<p>
-<center>See how each stock is performing.</center>
-<center><img src="https://github.com/hhlamba/Personalized-Stock-Market-Portfolio-Manager/blob/main/Screenshots/Stock%20Level%20Details.png"></center>
+<p align="center">
+See how each stock is performing.
+<img src="https://github.com/hhlamba/Personalized-Stock-Market-Portfolio-Manager/blob/main/Screenshots/Stock%20Level%20Details.png">
 </p>
 
-<p>
-<center>Note down your buy/sell transactions</center>
-<center><img src="https://github.com/hhlamba/Personalized-Stock-Market-Portfolio-Manager/blob/main/Screenshots/Transaction%20History.png"></center>
+<p align="center">
+Note down your buy/sell transactions
+<img src="https://github.com/hhlamba/Personalized-Stock-Market-Portfolio-Manager/blob/main/Screenshots/Transaction%20History.png">
 </p>
