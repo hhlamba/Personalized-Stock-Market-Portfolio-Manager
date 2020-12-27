@@ -9,21 +9,21 @@ We all keep an eye on the Stock Market to make few investments and earn a couple
 
 
 <p align="center">
-Instructions to work with this personalized portfolio<br>
+Instructions to work with this personalized portfolio<br><br>
 <img src="https://github.com/hhlamba/Personalized-Stock-Market-Portfolio-Manager/blob/main/Screenshots/Instructions.png">
 </p>
 
 <p align="center">
-What your overall porfolio returns look like?<br>
+What your overall porfolio returns look like?<br><br>
 <img src="https://github.com/hhlamba/Personalized-Stock-Market-Portfolio-Manager/blob/main/Screenshots/Overall%20Portfolio%20Gain:Loss.png">
 </p>
 
 <p align="center">
-See how each stock is performing.<br>
+See how each stock is performing.<br><br>
 <img src="https://github.com/hhlamba/Personalized-Stock-Market-Portfolio-Manager/blob/main/Screenshots/Stock%20Level%20Details.png">
 </p>
 
 <p align="center">
-Note down your buy/sell transactions<br>
+Note down your buy/sell transactions<br><br>
 <img src="https://github.com/hhlamba/Personalized-Stock-Market-Portfolio-Manager/blob/main/Screenshots/Transaction%20History.png">
 </p>
